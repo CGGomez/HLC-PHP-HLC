@@ -70,6 +70,6 @@ print 23;
 <?php
 define("Cadena","Jueves");
 define("numero", 7);
-echo Cadena + numero;
+echo Cadena /*String*/ + numero /*Numerico*/;
 ?>
 
